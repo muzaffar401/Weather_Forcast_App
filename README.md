@@ -3,7 +3,7 @@
 
 A comprehensive weather application that provides current weather conditions, 5-day forecasts, air quality data, and interactive weather maps for any location worldwide.
 
-![Weather App Screenshot](https://via.placeholder.com/800x400?text=Weather+App+Screenshot) *(placeholder for actual screenshot)*
+![image](https://github.com/user-attachments/assets/8eb5d5f9-68a3-4c88-ae10-bfbc845be322)
 
 ## Features
 
@@ -73,8 +73,8 @@ User Input → API Request → Data Processing → Visualization → User Output
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/weather-app.git
-cd weather-app
+git clone https://github.com/muzaffar401/Weather_Forcast_App.git
+cd Weather_Forcast_App
 ```
 
 Install dependencies:
@@ -92,7 +92,7 @@ export OPENWEATHER_API_KEY='your_api_key_here'
 Run the app:
 
 ```bash
-streamlit run app.py
+streamlit run main.py
 ```
 
 ## Configuration
